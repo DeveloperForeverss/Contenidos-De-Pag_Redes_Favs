@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <title></title>
+    <style>
+            body{
+              text-align: center;
+                }
+            table{
+                text-align: center;
+            }
+            img{
+                height: 75px;
+                width: 75px;
+            }
+            img:hover{
+                height: 100px;
+                width: 100px;
+            }
+               #Titulo{
+                color: rgb(12, 187, 240);
+            }
+            #contenido{
+                background-color: rgb(12, 187, 240);
+                border-radius: 16px;
+                
+
+            }
+    </style>
+<body>
+    <div id="encabezado">
+        <a href="ejercicio 4.html"><img src="C:\Users\dell\Desktop\cristian\img/developer.png"></a>
+    </div>
+
+    
+    <h1 id="Titulo">Redes sociales mas usadas</h1>
+  
+ <div id="menu">
+    <a href="https://drive.google.com/file/d/1EssOTxpLhsHcASqgLxChFSSqlZRCIYUR/view?usp=sharing"><img src="C:\Users\dell\Desktop\cristian\img/download.jpg"></a>
+    <img src="C:\Users\dell\Desktop\cristian\img/2.jpg">
+    <img src="C:\Users\dell\Desktop\cristian\img/124010.png">
+    <img src="C:\Users\dell\Desktop\cristian\img/6.jpg">
+    <img src="C:\Users\dell\Desktop\cristian\img/download.png">
+    <img src="C:\Users\dell\Desktop\cristian\img/unnamed.png">
+    <img src="C:\Users\dell\Desktop\cristian\img/8.png">
+    <img src="C:\Users\dell\Desktop\cristian\img/1.png">
+  </div>       
+    <div id="contenido">
+        <h1>Puntos positivos de las redes sociales</h1>
+            <h3> uso de redes sociales ha sido absorbido por personas en todo el mundo y hoy ya es parte de la rutina. Esto hizo de esos espacios un lugar donde las marcas y empresas también quisieran estar para interactuar con sus prospectos y clientes, trayendo posibilidades muy positivas, como:
+            <br/>
+            <br/>
+            Compartir la visión de la empresa: las redes sociales son una especie de escaparate de su empresa; en ellas podrás mostrar la visión del negocio, en lo que cree;
+            La personalización del mensaje y la interacción directa con el cliente: en las redes sociales, es posible tener una relación mucho más personalizada y directa con cada cliente o posible cliente, ya que puedes entrar en contacto con cada uno, ya sea para resolver problemas o para descubrir nuevas informaciones;
+            Posibilidad de segmentación del público: al publicar en redes sociales, es posible segmentar tus posts de acuerdo con las características de la audiencia, dirigiendo tus esfuerzos hacia aquellos rangos del público que poseen más afinidad con tu solución;
+            Poder saber más sobre cada uno de tus clientes: las personas comparten sus gustos, deseos y otras informaciones que pueden ser valiosas para las empresas a la hora de acercarse a su público objetivo. Manténte atento a lo que es relevante para tu audiencia para conectarse mejor a ella;
+            Posibilidad de vender por estos canales: de la misma forma que es posible relacionarse con el público a través de redes sociales, es también posible utilizarlas para vender tus productos o servicios, principalmente si abordas aquella audiencia que ya tiene una relación contigo y ya se muestra madura para la compra;
+            Crear un entorno controlado por la marca: independientemente de quién es tu público, este va a estar en alguna red social.
+            Posibilidad de divulgación para empresas con bajo presupuesto: a diferencia de los medios tradicionales, anunciar en las redes sociales tiene un costo más bajo, además de la ventaja de que en la web es mucho más fácil medir los resultados;
+            Información en tiempo real: las redes sociales permiten comunicar mensajes urgentes de la marca en un canal oficial. Esto es muy importante en el caso de la gestión de una crisis, por ejemplo, en el que es necesario que la marca se posicione rápidamente, evitando así que tome mayores proporciones.</h3>
+    </div>       
+
+           
+       
+</body>
+</head>
+
+</html>
